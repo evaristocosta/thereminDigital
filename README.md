@@ -1,6 +1,6 @@
 # Implementação de um Theremin Digital
 
-Código utilizado durante o projeto de sistema embarcado com PCI de um theremin digital, usando o microprocessador ATMega328P, comumente empregado em placas Arduino Uno. 
+Código utilizado durante o projeto de sistema embarcado com PCI de um Theremin digital por Lucas Costa e Rafael Albarello, usando o microprocessador ATMega328P, comumente empregado em placas Arduino Uno. 
 
 Para correto funcionamento, dependências de código são as bibliotecas:
 - [Ultrassonic](https://github.com/filipeflop/Ultrasonic);

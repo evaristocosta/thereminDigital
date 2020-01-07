@@ -1,3 +1,5 @@
+//Codigo desenvolvido por Lucas Costa e Rafael Albarello
+
 //Carrega as bibliotecas de sensor ultrassonico e toneAC
 #include <Ultrasonic.h>
 #include <toneAC.h>
